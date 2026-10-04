@@ -1,6 +1,6 @@
 # FakE-DiT 
 
-> FakeE is a DDPM with a Transformer backbone, trained on MNIST. 😎 
+> FakE-DiT is a DDPM with a Transformer backbone, trained on MNIST. 😎 
 
 > This model wan't simple to make tbh unlike U-nets
 .FakE-DiT took about 2 and 1/2 hours to train. 🕐
